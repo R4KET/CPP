@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(146,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(178,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(179,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(183,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(184,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(185,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\Source.cpp(186,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\Users\micha\OneDrive\Programowanie\C++\Grafika Komputerowa\Projekt\Project1\x64\Debug\Project1.exe
