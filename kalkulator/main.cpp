@@ -3,13 +3,8 @@
 #include "pobieranieLiczb.h"
 using namespace std;
 
-
-
-
 int main()
 {
-    // double A;
-    // double B;
     int dzialanie;
     bool petla = true;
 
@@ -17,10 +12,6 @@ int main()
     {
         double A = pobierzLiczbeOdUzytkownika();
         double B = pobierzLiczbeOdUzytkownika();
-        // cout << "Podaj pierwsza liczbe: " << endl;
-        // cin >> A;
-        // cout << "Podaj druga liczbe: " << endl;
-        // cin >> B;
         cout << "Wybierz opcje: " << endl
              << "1 - dodawanie" << endl
              << "2 - odejmowanie" << endl

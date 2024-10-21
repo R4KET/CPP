@@ -31,7 +31,7 @@ double potegowanie(double A, double B) {
 
 double pierwiastkowanie(double A) {
     if (A < 0) {
-        cout << "Nie można obliczyc pierwiastka z liczby ujemnej!" << endl;
+        cout << "Nie mozna obliczyc pierwiastka z liczby ujemnej!" << endl;
         return -1;
     } else
     return sqrt(A);
