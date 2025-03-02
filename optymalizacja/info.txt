@@ -1,0 +1,5 @@
+KOMPILACJA:
+g++ -o optymalizacja main.cpp matrix.cpp ode_solver.cpp opt_alg.cpp solution.cpp user_funs.cpp
+
+URUCHAMIANIE:
+./optymalizacja
