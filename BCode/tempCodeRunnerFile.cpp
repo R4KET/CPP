@@ -1,1 +1,2 @@
 
+        if (guess == answerKey[i])
